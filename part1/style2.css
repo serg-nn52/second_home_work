@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+
+
+.a {
+display: block;
+float: left;
+padding: 0;
+height: 75px;
+width: 49%;
+background-color: orange;
+margin: 0.5%;
+}
+.sw {
+    clear: both;
+}
+.b {
+height: 200px;
+background-color: green;
+margin: 2% 0.5%;
+
+}
+.ob {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+}
+
+.d {
+    width: 30%;
+    height: 150px;
+    margin: 2% 0.5%;
+    background-color: blue;
+}
+.ob1 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+.e {
+    width: 20%;
+    height: 75px;
+    margin: 2% 0.5%;
+    background-color: gray;
+    
+}
